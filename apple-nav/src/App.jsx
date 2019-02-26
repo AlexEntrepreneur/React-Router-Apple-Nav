@@ -1,10 +1,14 @@
 import React, { Component } from 'react';
+import { Route } from 'react-router-dom';
+import MainNav from './components/MainNav/MainNav';
+import HomePage from './components/HomePage/HomePage';
 
 class App extends Component {
   render() {
     return (
       <>
-        <div>A New Beginning</div>
+        <MainNav />
+        <Route exact path="/" component={HomePage} />
       </>
     );
   }
