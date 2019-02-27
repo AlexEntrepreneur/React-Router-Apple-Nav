@@ -1,0 +1,244 @@
+{
+  "result": [
+    {
+      "name": "Mac",
+      "products": [
+        {
+          "name": "MacBook",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        },
+        {
+          "name": "MacBook Air",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "true"
+        },
+        {
+          "name": "MacBook Pro",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        },
+        {
+          "name": "iMac",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        },
+        {
+          "name": "iMac Pro",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        },
+        {
+          "name": "Mac Pro",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        },
+        {
+          "name": "Mac Mini",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "true"
+        },
+        {
+          "name": "Accessories",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        },
+        {
+          "name": "Mojave",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        }
+      ]
+    },
+    {
+      "name": "iPad",
+      "products": [
+        {
+          "name": "iPad Pro",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "true"
+        },
+        {
+          "name": "iPad Pro 10.5\"",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        },
+        {
+          "name": "iPad Pro 9.7\"",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        },
+        {
+          "name": "iPad Mini 4",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        },
+        {
+          "name": "iOS 12",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        },
+        {
+          "name": "Apple Pencil",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        },
+        {
+          "name": "Smart Keyboard",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        },
+        {
+          "name": "Accessories",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        }
+      ]
+    },
+    {
+      "name": "iPhone",
+      "products": [
+        {
+          "name": "iPhone XS",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        },
+        {
+          "name": "iPhone XR",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        },
+        {
+          "name": "iPhone 8",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        },
+        {
+          "name": "iPhone 7",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        },
+        {
+          "name": "iOS 12",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        },
+        {
+          "name": "AirPods",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        },
+        {
+          "name": "Accessories",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        }
+      ]
+    },
+    {
+      "name": "Watch",
+      "products": [
+        {
+          "name": "Apple Watch Series 4",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        },
+        {
+          "name": "Apple Watch Nike+",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        },
+        {
+          "name": "Apple Watch Hermès",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        },
+        {
+          "name": "Apple Watch Series 3",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        },
+        {
+          "name": "Watch OS",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        },
+        {
+          "name": "Bands",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        },
+        {
+          "name": "Accessories",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        }
+      ]
+    },
+    {
+      "name": "TV",
+      "products": [
+        {
+          "name": "Apple TV 4K",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        },
+        {
+          "name": "Apple TV",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        },
+        {
+          "name": "TV App",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        },
+        {
+          "name": "Accessories",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        }
+      ]
+    },
+    {
+      "name": "Music",
+      "products": [
+        {
+          "name": "Apple Music",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        },
+        {
+          "name": "iTunes",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        },
+        {
+          "name": "HomePod",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        },
+        {
+          "name": "AirPods",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        },
+        {
+          "name": "iPod Touch",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        },
+        {
+          "name": "Music Accessories",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        },
+        {
+          "name": "Gift Cards",
+          "icon": "/assets/img/some-image.png",
+          "new-releases": "false"
+        }
+      ]
+    }
+  ]
+}

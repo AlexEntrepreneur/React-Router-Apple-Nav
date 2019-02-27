@@ -6,15 +6,19 @@ class MainNav extends Component {
     return (
       <nav>
         <Link to="/" className="site-logo">🍎</Link>
-        <NavLink to="/">Mac</NavLink>
-        <NavLink to="/">iPad</NavLink>
-        <NavLink to="/">iPhone</NavLink>
-        <NavLink to="/">Watch</NavLink>
-        <NavLink to="/">TV</NavLink>
-        <NavLink to="/">Music</NavLink>
+        {
+          this.props.productsData.map((productLine, index) =>
+            <NavLink
+              to={`/${productLine.name.toLowerCase()}`}
+              key={index}
+            >
+            { productLine.name }
+            </NavLink>
+          )
+        }
         <NavLink to="/">Support</NavLink>
-        <Link to="/" className="site-search">🔍</Link>
-        <Link to="/" className="site-basket">🛍</Link>
+        <button className="site-search">🔍</button>
+        <button className="site-basket">🛍</button>
       </nav>
     );
   }
